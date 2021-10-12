@@ -1,0 +1,14 @@
+{
+    "website" : {
+      "support": "https://discord.gg/2MteVCXcfh",
+      "domain": "https://Hiroto-Music.kkonai.repl.co"
+    },
+    "config": {
+        "http": {
+          "port": 80
+        },
+        "callback": "https://Hiroto-Music.kkonai.repl.co/callback",
+        "clientID": "894339736804671539",
+        "secret": "H9WnNrEZOauhQhw_T1L1MtyKmG8Gd9DJ"
+    }
+  }
